@@ -27,5 +27,5 @@ To do this then comment out line #18 and uncomment lines #21-#23 and set the int
 
 ```
 # Update Dyndns hosts every 6 hours
-    *       */6         *               *                 *             ./DynDnsUpdate/cron-dyndns-update.sh
+    *       */6         *               *                 *             ./DynDnsUpdate/dyndns-update.sh
 ```
