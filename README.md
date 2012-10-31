@@ -5,7 +5,9 @@ This script is designed to simply to update your Dynamic dns hosts from [Dyn](ht
 
 ##Usage
 To use it could not be simpler. Clone the repo into the root of your account;
-``git clone https://github.com/djekl/DynDnsUpdate.git ~/DynDnsUpdate/``
+
+    git clone https://github.com/djekl/DynDnsUpdate.git ~/DynDnsUpdate/
+
 
 Now you have this cloned in, we need to do some configuration:
 
