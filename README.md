@@ -29,3 +29,7 @@ To do this then comment out line #18 and uncomment lines #21-#23 and set the int
 # Update Dyndns hosts every 6 hours
     *       */6         *               *                 *             ./DynDnsUpdate/dyndns-update.sh
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/djekl/dyndnsupdate/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
